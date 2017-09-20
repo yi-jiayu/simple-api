@@ -1,0 +1,4 @@
+FPL API
+
+GET https://fantasy.premierleague.com/drf/leagues-classic-standings/{leaderboard_id}
+Returns leaderboard in JSON format
